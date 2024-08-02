@@ -1,0 +1,2 @@
+This repository is a portfolio of Data Science projets.
+This projects are used for training purpose.
